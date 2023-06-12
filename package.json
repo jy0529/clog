@@ -1,0 +1,27 @@
+{
+  "name": "clog",
+  "version": "0.0.1",
+  "description": "Terminal log with styling",
+  "repository": "jy0529/clog",
+  "main": "clog.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "cli",
+    "terminal",
+    "log",
+    "logger",
+    "logging",
+    "chalk",
+    "shell",
+    "style",
+    "styles"
+  ],
+  "author": "Jy <purejy@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}

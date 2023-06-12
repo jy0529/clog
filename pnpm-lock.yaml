@@ -1,0 +1,16 @@
+lockfileVersion: 5.3
+
+specifiers:
+  chalk: ^5.2.0
+
+dependencies:
+  chalk: registry.npmmirror.com/chalk/5.2.0
+
+packages:
+
+  registry.npmmirror.com/chalk/5.2.0:
+    resolution: {integrity: sha512-ree3Gqw/nazQAPuJJEy+avdl7QfZMcUvmHIKgEZkGL+xOBzRvup5Hxo6LHuMceSxOabuJLJm5Yp/92R9eMmMvA==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/chalk/-/chalk-5.2.0.tgz}
+    name: chalk
+    version: 5.2.0
+    engines: {node: ^12.17.0 || ^14.13 || >=16.0.0}
+    dev: false
