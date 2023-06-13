@@ -3,7 +3,16 @@
   "version": "0.0.1",
   "description": "Terminal log with styling",
   "repository": "jy0529/clog",
-  "main": "clog.mjs",
+  "type": "module",
+  "main": "./source/index.js",
+  "exports": "./source/index.js",
+  "engines": {
+    "node": "^14.13 || >=16.0.0"
+  },
+	"types": "./source/index.d.ts",
+  "files": [
+    "source"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
