@@ -2,7 +2,7 @@
 Terminal log with styling
 
 ```javascript
-// @ts-check
+	// @ts-check
 	import { createClog, Colors } from "../source/index.js";
 
 	const prefixes = {
